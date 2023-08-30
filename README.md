@@ -1,11 +1,14 @@
 <div align="center">
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo Bootcamp" width="80">
-<h1>Santander Bootcamp 2023 - Ciência de Dados com Python</h1>
+<h1>Santander Bootcamp 2023 <br> Ciência de Dados com Python</h1>
 <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="220">
 </div>
 
 ##  :brain: Desafio Original DIO: Explorando IA Generativa em um Pipeline de ETL com Python
-Link do projeto do desafio original resolvido: [Notebook Google Colab](https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing#scrollTo=k5fA5OrXt1a3)
+Link do projeto do desafio original resolvido pelo Venilton da DIO:
+<a target="_blank" href="https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing#scrollTo=k5fA5OrXt1a3">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## :rocket: Entendendo o desafio
 Inspirado pelo projeto modelo o aluno deveria replicar ou reimaginar uma pipeline ETL utilizando Python.
@@ -29,7 +32,7 @@ Agora vamos calcular o total de vendas por produto e por mês.
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
-## :notebook_with_decorative_cover:	 Notebook do projeto no Google Colab
+## :notebook_with_decorative_cover:	 Notebook do meu projeto no Google Colab
 <a target="_blank" href="https://colab.research.google.com/github/walterowisk/DIO_LabProject-Pipeline-ETL-Python/blob/main/DIO_LabProject_Pipeline_ETL_Analisando_Dados_de_Venda.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
