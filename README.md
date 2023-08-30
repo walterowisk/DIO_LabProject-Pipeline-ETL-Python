@@ -18,7 +18,7 @@ Imaginando uma loja de produtos esportivos meu desafio foi criar um pipeline ETL
 
 ## :technologist: Etapas do Pipeline de ETL
 ### Extract
-Nesta etapa vamos extrair os dados de vendas do arquivo dados-venda.csv. Este arquivo traz informações referentes ao ano de 2023 considerando o período de janeiro a agosto. As colunas contidas no arquivo são as seguintes: Produto, Data, Quantidade e Valor.
+Nesta etapa vamos extrair os dados de vendas do arquivo `dados-venda.csv`. Este arquivo traz informações referentes ao ano de 2023 considerando o período de janeiro a agosto. As colunas contidas no arquivo são as seguintes: `Produto`, `Data`, `Quantidade` e `Valor`.
 
 ### Transform
 Agora vamos calcular o total de vendas por produto e por mês.
