@@ -5,7 +5,7 @@
 </div>
 
 ##  :brain: Desafio Original DIO: Explorando IA Generativa em um Pipeline de ETL com Python
-Link do projeto do desafio original resolvido pelo Venilton da DIO:
+Notebook do desafio original resolvido pelo Venilton da DIO:
 <a target="_blank" href="https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing#scrollTo=k5fA5OrXt1a3">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
